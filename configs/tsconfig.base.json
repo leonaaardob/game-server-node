@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "incremental": true,
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "strict": true,
+    "importHelpers": true,
+    "noUnusedLocals": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "emitDecoratorMetadata": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,
+    "declaration": true
+  },
+  "include": ["../src/**/*"]
+}
